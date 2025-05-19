@@ -1,0 +1,10 @@
+name: nutrition_app
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - streamlit
+  - pip
+  - pip:
+      - typing_extensions
+      - pyinstaller
