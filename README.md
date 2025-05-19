@@ -34,8 +34,8 @@ Un outil Streamlit simple pour comparer les apports nutritionnels de différents
 1. Clonez le dépôt :
 
    ```bash
-   git clone <URL_DU_PROJET>
-   cd <REPERTOIRE_PROJET>
+   git clone https://github.com/elValentinoCode/ConvertisseurMacronutriment.git
+   cd ConvertisseurMacronutriment
    ```
 
 2. Créez et activez l’environnement Conda :
